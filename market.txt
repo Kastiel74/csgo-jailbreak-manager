@@ -1,0 +1,24 @@
+[Health]
+150HP
+Health Regeneration
+
+[Longjump]
+Longjump
+
+[Multijump]
+Multijump [4 Total Jumps]
+
+[Ninja]
+Faster Speed
+80% Invisibility
+Free Flashbang & Smokegrenade
+
+[Blast-Fire]
+Fire Protection
+Explosion Protection
+Free Molotov & HE-Grenade
+
+[Juggernaut]
+255 Health
+Free Assaultsuit
+Free Fists & Tagrenade

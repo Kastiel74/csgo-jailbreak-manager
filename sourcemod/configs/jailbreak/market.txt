@@ -1,0 +1,39 @@
+"Market"
+{
+	"Health-R"
+	{
+		"time"		"0"
+		"price"		"1000"
+		"steamid"		"none"
+	}
+	"Longjump"
+	{
+		"time"		"0"
+		"price"		"1500"
+		"steamid"		"none"
+	}
+	"Multijump"
+	{
+		"time"		"0"
+		"price"		"2000"
+		"steamid"		"none"
+	}
+	"Ninja"
+	{
+		"time"		"0"
+		"price"		"2500"
+		"steamid"		"none"
+	}
+	"Blast-Fire"
+	{
+		"time"		"0"
+		"price"		"3000"
+		"steamid"		"none"
+	}
+	"Juggernaut"
+	{
+		"time"		"0"
+		"price"		"3500"
+		"steamid"		"none"
+	}
+}

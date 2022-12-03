@@ -1,0 +1,35 @@
+[Command]		[Access]		[Description/Usage]
+sm_s			No			Become Simon
+sm_simon		No			Become Simon
+sm_lr			No			Last Request Menu
+sm_lastrequest		No			Last Request Menu
+sm_deputy		No			Become Deputy
+sm_market		No			Market Menu
+sm_dollars		No			Show Player Dollars
+sm_shop			No			Shop Menu
+sm_team			No			Team Menu
+sm_guard		No			Join Guard Team
+sm_models		No/VIP			Models Menu
+sm_vmenu		No/VIP			VIP Menu
+sm_vipmenu		No/VIP			VIP Menu
+sm_box			Simon			Start/Stop Box
+sm_menu			Simon			Simon Menu
+sm_voice		Simon			Voice Menu
+sm_days			Simon			Days Menu
+sm_noblock		Simon/Admin		Open/Close No Block
+sm_fd			Simon/Admin		Freeday Menu
+sm_freeday		Simon/Admin		Freeday Menu
+sm_open			Simon/Admin		Open Cells
+sm_ctbanlist		Admin			CT Banlist
+sm_ctban		Admin			sm_ctban <name> <minutes>
+sm_addctban		Admin			sm_addctban <steamid> <minutes>
+sm_removectban		Admin			sm_removectban <steamid>
+sm_setcolor		Root			sm_setcolor <player> <red> <green> <blue> <alpha>
+sm_setglow		Root			sm_setglow <player> <red> <green> <blue> <alpha> <style>
+sm_removeglow		Root			sm_removeglow <player>
+sm_adddollars		Root			sm_adddollars <steamid> <amount>
+sm_givedollars		Root			sm_givedollars <name> <amount>
+jb_setpv		Root			jb_setpv <steamid> <key> <value>
+jb_getpv		Root			jb_setpv <steamid> <key>
+jb_reloadshop		Root			Reloads Shop Prices
+jb_reloadmarket		Root			Reloads Market Prices

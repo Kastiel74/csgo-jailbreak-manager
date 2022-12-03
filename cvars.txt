@@ -1,0 +1,22 @@
+[CVAR]					[Value]									[Description]
+jb_vip_models				1									Models only for VIP Players? [1 = Yes | 0 = No]
+jb_dollars_guards_win			50									Guards win round dollars
+jb_dollars_prisoners			10									Prisoners win round dollars
+jb_dollars_prisoners_kill		50									Prisoners kill dollars
+jb_dollars_guards_kill			1									Guards kill dollars
+jb_dollars_min_players			6									Minimum Players to get rewards
+jb_max_dollars				20000									Maximum dollars a Player can get
+jb_enable_shop				1									Enable Shop? [1 = Yes | 0 = No]
+jb_ratio				3.0									How many Prisoners for 1 Guard
+jb_lockteams				0									Lock Teams? [1 = Yes | 0 = No]
+jb_ignore_ratio				0									Ignore Ratio? [1 = Yes | 0 = No]
+jb_enable_vipmenu			1									Enable VIP menu? [1 = Yes | 0 = No]
+jb_dm_day_time				180									Round time in seconds for DM Day
+jb_team_day_time			300									Round time in seconds for Team Day
+jb_dm_winner_money			150									DM Winner Money
+jb_guards_win_money			200									Team Day Guards win money
+jb_prisoners_win_money			100									Team Day Prisoners win money
+jb_freeday_time				120.0									Freeday time
+jb_simon_model				models/player/custom_player/kuristaja/agent_smith/smith.mdl		Simon model
+jb_day_vip_model			models/player/custom_player/kuristaja/agent_smith/smith.mdl		VIP model
+jb_day_zm_model				models/player/custom_player/kuristaja/skeleton/skeleton.mdl		Zombie model
